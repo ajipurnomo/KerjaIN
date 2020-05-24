@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kerja IN</string>
+    <string name="semboyan1">"Mencari Lowongan ATAU Menyediakan Lowongan ?</string>
+    <string name="semboyan2">#Kerja-IN aja"</string>
+    <string name="hint_inputemail">Masukkan email</string>
+    <string name="hint_inputpass">Masukkan password</string>
+    <string name="btn_Login">MASUK</string>
+    <string name="tawar_register">Belum punya akun ? Silahkan Mendaftar</string>
+    <string name="arahkan_daftar">Mendaftar</string>
+
+</resources>
